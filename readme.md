@@ -1,4 +1,5 @@
 # Exercices JQuery - Partie 2
+https://github.com/Lara30/jquery-exercises-base2/blob/master/index.html
 
 * Charger la dernière version de Jquery et lier le fichier dans la balise head du document html.
  
